@@ -1,0 +1,51 @@
+# appsettings JSON doc which houses the API key
+**/appsettings.json
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+[Pp]ackages/
+**/[Pp]ackage/*
+**/NuGet.config
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper/Rider
+_ReSharper.*/
+*.ReSharper
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.snl.ide/
+
+# Logs and databases
+*.log
+*.vsdb
+*.sqlproj.user
+
+# Temporary files
+*.[Bb]ak
+*.[Tt]mp
+*.[Oo]ld
+*.[Bb]ak.*
+*.log.*
+
+# Publish outputs
+publish/
+
+# Node modules
+node_modules/
+
+# Secrets
+secrets.json
